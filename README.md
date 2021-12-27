@@ -1,6 +1,6 @@
 # Eyeglass Detection
 Real-time Eyeglass Detection framework based on deep features present in facial or ocular images, which serve as a prime factor in forensics analysis, authentication systems and many more.
-
+## Developed by Ritik Jain
 # Getting Started
 * [Training and Optimizing](Training_and_Optimizing.ipynb) extracts the features using InceptionV3 from custom dataset. The feature extraction and training process is fine-tuned by Optimizing different model hyper-parameters.
 * [Haar-cascade](haarcascade_face.xml) defines the haar features for extraction of face during real-time.
@@ -47,3 +47,14 @@ Performance metrics (accuracy) for optimised model on different datasets are men
 * Real Test Data- 100.00
 * ORL Test Data- 94.38
 * Sunglasses Test Data- 98.20
+
+
+# Further Projects and Contact
+www.researchreader.com
+
+https://medium.com/@dr.siddhaling
+
+Dr. Siddhaling Urolagin,\
+PhD, Post-Doc, Machine Learning and Data Science Expert,\
+Passionate Researcher, Focus on Deep Learning and its applications,\
+dr.siddhaling@gmail.com
