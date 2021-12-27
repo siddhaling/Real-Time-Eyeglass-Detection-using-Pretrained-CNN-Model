@@ -1,0 +1,5 @@
+python
+numpy
+opencv-python
+tensorflow
+tensorflow_hub
